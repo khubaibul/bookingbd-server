@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"place": "COX'S BAZAR",
+		"description": "Cox's Bazar is a town on the southeast coast of Bangladesh. It's known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+        "photo": "https://i.ibb.co/vxctm01/cox-s-bazar-again.jpg"
+	},
+	{
+		"id": 2,
+		"place": "SAJEK VALLEY",
+		"description": "Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District. The valley is 2,000 feet  above sea level. Sajek Tripuri Valley is known as the Queen of Hills & Roof of Rangamati.",
+        "photo": "https://i.ibb.co/5Wwnxbp/sajek-valley-again.jpg"
+	},
+	{
+		"id": 3,
+		"place": "SAINT MARTIN",
+		"description": "St. Martin's Island is a small island in the northeastern part of the Bay of Bengal, about 9 km south of the tip of the Cox's Bazar-Teknaf peninsula, and forming the southernmost part of Bangladesh. There is a small adjoining island that is separated at high tide, called Chera Dwip. It is about 8 kilometres west of the northwest coast of Myanmar, at the mouth of the Naf River.",
+        "photo": "https://i.ibb.co/ck0xjtb/saint-martin-again.jpg"
+	},
+	{
+		"id": 4,
+		"place": "SUNDARBAN",
+		"description": "Sundarban is a mangrove area in the delta formed by the confluence of the Padma, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans the area from the Baleswar River in Bangladesh's division of Khulna to the Hooghly River in India's state of West Bengal. It comprises closed and open mangrove forests, land used for agricultural purpose, mudflats and barren land, and is intersected by multiple tidal streams and channels. Sundarbans is home to the world's largest area of mangrove forests.Four protected areas in the Sundarbans are enlisted as UNESCO World Heritage Sites, viz.",
+        "photo": "https://i.ibb.co/xjqSyVL/sundarban-again.jpg"
+	}
+]

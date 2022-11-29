@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"place_name": "Cox's Bazar",
+		"place_category": "Sea & Hill",
+		"photo": "https://i.ibb.co/7nx3hcX/cox-s-bazar.jpg"
+	},
+	{
+		"id": 2,
+		"place_name": "Sajek Valley",
+		"place_category": "Mountain & Hill",
+		"photo": "https://i.ibb.co/61xyxdP/sajek-valley.jpg"
+	},
+	{
+		"id": 3,
+		"place_name": "Saint-Martin",
+		"place_category": "Sea & Coral Seas",
+		"photo": "https://i.ibb.co/Wf5YMK8/saint-martin.png"
+	},
+	{
+		"id": 4,
+		"place_name": "Sundarban",
+		"place_category": "River & Forest",
+		"photo": "https://i.ibb.co/4FzbRCb/Sundarban-Travel.jpg"
+	}
+]

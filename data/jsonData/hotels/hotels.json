@@ -1,0 +1,694 @@
+[
+	{
+		"hotel_location_id": 1,
+		"hotel_id": "hotel_the_cox_today",
+		"name": "Hotel The Cox Today",
+		"photo": "https://i.ibb.co/KqNX6RT/hotel-the-cox-today.jpg",
+		"location": "Plot-7, Road-02 Hotel Motel Zone, Kolatoli, Cox's Bazar, Bangladesh",
+		"map": {
+			"lat": 21.42634267413091,
+			"lng": 91.97677948310336
+		},
+		"ratings": 4.3,
+		"suite_option": [
+			{
+				"suite_name": "Royal Suite",
+				"price": 17000,
+				"suite_bed": "https://i.ibb.co/nQZv7pQ/medium-kg-Al-P6-Upps-Royal-Suie-1.jpg",
+				"capacity": "4 Adults, 2 Children",
+				"amenities": [
+					"Breakfast Included",
+					"Air Conditioning",
+					"Balcony",
+					"Safe/Locker",
+					"TV",
+					"Telephone",
+					"Wi-Fi"
+				]
+			},
+			{
+				"suite_name": "Presidential SuiteSuite",
+				"price": 34000,
+				"suite_bed": "https://i.ibb.co/dBhHLkP/presidential-suite.jpg",
+				"capacity": "4 Adults, 2 Children",
+				"amenities": [
+					"Breakfast Included",
+					"Air Conditioning",
+					"Balcony",
+					"Connecting Room",
+					"Safe/Locker",
+					"TV",
+					"Telephone"
+				]
+			}
+		]
+	},
+	{
+		"hotel_location_id": 1,
+		"hotel_id": "sayeman_beach_resort",
+		"name": "Sayeman Beach Resort",
+		"photo": "https://i.ibb.co/njSjQc0/sayman-beach-resort.jpg",
+		"location": "Marine Drive Road, Kolatoli, Cox's Bazar, Bangladesh",
+		"map": {
+			"lat": 21.414304696555863,
+			"lng": 91.9841721280812
+		},
+		"ratings": 4.2,
+		"suite_option": [
+			{
+				"suite_name": "Super Deluxe Twin",
+				"price": 7000,
+				"suite_bed": "https://i.ibb.co/WvfpyG6/medium-Pu4mw-GOGue-Super-deluxe-twin.jpg",
+				"capacity": "2 Adults, 1 Child",
+				"amenities": [
+					"Hairdryer",
+					"Air Conditioning",
+					"Balcony",
+					"Safe/Locker",
+					" Hot Water",
+					"Toiletries"
+				]
+			},
+			{
+				"suite_name": "Junior Suite",
+				"price": 3000,
+				"suite_bed": "https://i.ibb.co/yWgmW0D/medium-Z3-JMVRTp7a-Junior-Suite.jpg",
+				"capacity": "2 Adults, 1 Children",
+				"amenities": ["Air Conditioning", "Toiletries", "Safe/Locker", "TV"]
+			},
+			{
+				"suite_name": "Panorama Ocean Suite",
+				"price": 4000,
+				"suite_bed": "https://i.ibb.co/3hbzR9Q/medium-Je-On-Rx-Xyex-Panoroma.jpg",
+				"capacity": "2 Adults, 1 Children",
+				"amenities": ["Air Conditioning", "Toiletries", "Safe/Locker", "TV"]
+			}
+		]
+	},
+	{
+		"hotel_location_id": 1,
+		"hotel_id": "hotel_sea_crown",
+		"name": "Hotel Sea Crown",
+		"photo": "https://i.ibb.co/qFP969Q/hotel-sea-crown.jpg",
+		"location": "Marin Drive, New Beach Road, Kolatoli, Cox's Bazar, Bangladesh",
+		"map": {
+			"lat": 21.414991062556084,
+			"lng": 91.98358616257738
+		},
+		"ratings": 3.6,
+		"suite_option": [
+			{
+				"suite_name": "Super Deluxe Tripple",
+				"price": 5000,
+				"suite_bed": "https://i.ibb.co/wCGngjL/super-deluxe-tripple.jpg",
+				"capacity": "3 Adults, 1 Child",
+				"amenities": [
+					"Hot Water",
+					"Toiletries",
+					"Air Conditioning",
+					"Ceiling Fan",
+					"TV",
+					"Wi-Fi"
+				]
+			},
+			{
+				"suite_name": "Super Deluxe Double",
+				"price": 3000,
+				"suite_bed": "https://i.ibb.co/CzmR5xW/super-deluxe-double.jpg",
+				"capacity": "2 Adults, 1 Children",
+				"amenities": ["Air Conditioning", "Toiletries", "Safe/Locker", "TV"]
+			}
+		]
+	},
+	{
+		"hotel_location_id": 1,
+		"hotel_id": "dera_resort_&_spa",
+		"name": "Dera Resort & Spa",
+		"photo": "https://i.ibb.co/dc4NBSc/dera-resort-spa.jpg",
+		"location": "Jalia Palong, Ukhia, Cox's Bazar, Bangladesh",
+		"map": {
+			"lat": 21.22390049017422,
+			"lng": 92.04902242276751
+		},
+		"ratings": 4.0,
+		"suite_option": [
+			{
+				"suite_name": "Presidential Villa",
+				"price": 34000,
+				"suite_bed": "https://i.ibb.co/R6bHqkC/presidential-villa.jpg",
+				"capacity": "10 Adults, 5 Child",
+				"amenities": [
+					"Breakfast Included",
+					"Hot Water",
+					"Toiletries",
+					"Air Conditioning",
+					"Ceiling Fan",
+					"TV",
+					"Wi-Fi",
+					"Minibar",
+					"Ironing Set"
+				]
+			},
+			{
+				"suite_name": "Family Villa",
+				"price": 10000,
+				"suite_bed": "https://i.ibb.co/zFxFjt2/medium-t-Ht-BGy9cnj-Family-Villa-Room.jpg",
+				"capacity": "4 Adults, 2 Children",
+				"amenities": [
+					"Breakfast Included",
+					"Air Conditioning",
+					"Toiletries",
+					"Safe/Locker",
+					"TV",
+					"Tea and Coffee",
+					"Minibar"
+				]
+			},
+			{
+				"suite_name": "Deluxe Room (Sea Side)",
+				"price": 6000,
+				"suite_bed": "https://i.ibb.co/zN8DwZC/deluse-sea-side.jpg",
+				"capacity": "4 Adults, 2 Children",
+				"amenities": [
+					"Air Conditioning",
+					"Toiletries",
+					"Safe/Locker",
+					"TV",
+					"Wi-Fi",
+					"Tea and Coffee"
+				]
+			}
+		]
+	},
+	{
+		"hotel_location_id": 1,
+		"hotel_id": "seagull_hotels_ltd",
+		"name": "Seagull Hotels Ltd.",
+		"photo": "https://i.ibb.co/SvcPHyf/Seagull-hotels-Ltd.jpg",
+		"location": "Hotel Motel Zone, Cox's Bazar Sea Beach, Beach road, Cox's Bazar, Bangladesh",
+		"map": {
+			"lat": 21.425168917869144,
+			"lng": 91.97606949522441
+		},
+		"ratings": 5,
+		"suite_option": [
+			{
+				"suite_name": "Regular Room Hill Side",
+				"price": 4100,
+				"suite_bed": "https://i.ibb.co/GWhqbc7/regular-room-hill-side.jpg",
+				"capacity": "10 Adults, 5 Child",
+				"amenities": [
+					"Breakfast Included",
+					"Safe/Locker",
+					"Non Smoking Room",
+					"TV",
+					"Wi-Fi",
+					"Air Conditioning",
+					"Minibar"
+				]
+			},
+			{
+				"suite_name": "Regular Room Sea Side",
+				"price": 4400,
+				"suite_bed": "https://i.ibb.co/2nLCGBn/regular-room-sea-side.jpg",
+				"capacity": "10 Adults, 5 Child",
+				"amenities": [
+					"Breakfast Included",
+					"Safe/Locker",
+					"Non Smoking Room",
+					"TV",
+					"Wi-Fi",
+					"Air Conditioning",
+					"Minibar",
+					"Pool View",
+					"Power Outlet"
+				]
+			},
+			{
+				"suite_name": "Suite Room (Sea Side)",
+				"price": 10500,
+				"suite_bed": "https://i.ibb.co/k9wZtqs/suite-room-sea-side.jpg",
+				"capacity": "2 Adults, 1 Children",
+				"amenities": [
+					"Breakfast Included",
+					"Air Conditioning",
+					"Toiletries",
+					"Safe/Locker",
+					"TV",
+					"Wi-Fi",
+					"Tea and Coffee"
+				]
+			}
+		]
+	},
+	{
+		"hotel_location_id": 2,
+		"hotel_id": "hotel_prince",
+		"name": "Hotel Prince",
+		"photo": "https://i.ibb.co/sPprX2P/hotel-prince.jpg",
+		"location": "Reserve Bazar Road, 4500 Rangamati, Bangladesh",
+		"map": {
+			"lat": 22.645738398433704,
+			"lng": 92.19253514276248
+		},
+		"ratings": 3.7,
+		"suite_option": [
+			{
+				"suite_name": "Standard Double Room",
+				"price": 1200,
+				"suite_bed": "https://i.ibb.co/MGT7KjJ/standard-double-room.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Shower Safe Toilet",
+					"Towels Linens",
+					"Cleaning products",
+					"Fan",
+					"Wake-up service",
+					"Clothes rack"
+				]
+			},
+			{
+				"suite_name": "Deluxe Double Room",
+				"price": 1800,
+				"suite_bed": "https://i.ibb.co/3mphv6Z/deluxe-double-room.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Shower Safe Toilet",
+					"Towels Linens",
+					"Cleaning products",
+					"Fan",
+					"Wake-up service",
+					"Clothes rack"
+				]
+			},
+			{
+				"suite_name": "Economy Quadruple Room",
+				"price": 2500,
+				"suite_bed": "https://i.ibb.co/cvKds1v/hotel-prince.jpg",
+				"capacity": "4 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Shower Safe Toilet",
+					"Towels Linens",
+					"Cleaning products",
+					"Fan",
+					"Wake-up service",
+					"Clothes rack"
+				]
+			},
+			{
+				"suite_name": "Duplex Quadruple Room",
+				"price": 3000,
+				"suite_bed": "https://i.ibb.co/hFLYbHp/duplex-quadruple.jpg",
+				"capacity": "4 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Shower Safe Toilet",
+					"Towels Linens",
+					"Cleaning products",
+					"Fan",
+					"Wake-up service",
+					"Clothes rack"
+				]
+			}
+		]
+	},
+	{
+		"hotel_location_id": 2,
+		"hotel_id": "hotel_green_castle",
+		"name": "Hotel Green Castle",
+		"photo": "https://i.ibb.co/GV0G3NJ/hotel-green-castle.jpg",
+		"location": "Reserve Bazar Road, 4500 Rangamati, Bangladesh",
+		"map": {
+			"lat": 22.646484129207405,
+			"lng": 92.1924908897339
+		},
+		"ratings": 3.9,
+		"suite_option": [
+			{
+				"suite_name": "Economy Double Room",
+				"price": 1800,
+				"suite_bed": "https://i.ibb.co/3FRCnxy/economy-double.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Shower Safe Toilet",
+					"Towels Linens",
+					"Cleaning products",
+					"Fan",
+					"Wake-up service",
+					"Clothes rack"
+				]
+			},
+			{
+				"suite_name": "Deluxe Double Room",
+				"price": 2800,
+				"suite_bed": "https://i.ibb.co/Trbrxms/deluxe-double.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Shower Safe Toilet",
+					"Towels Linens",
+					"Cleaning products",
+					"Fan",
+					"Wake-up service",
+					"Clothes rack"
+				]
+			},
+			{
+				"suite_name": "Economy Quadruple Room",
+				"price": 3500,
+				"suite_bed": "https://i.ibb.co/yX6DLGK/economy-quadruple.jpg",
+				"capacity": "4 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Shower Safe Toilet",
+					"Towels Linens",
+					"Cleaning products",
+					"Fan",
+					"Wake-up service",
+					"Clothes rack"
+				]
+			},
+			{
+				"suite_name": "Family Room",
+				"price": 6000,
+				"suite_bed": "https://i.ibb.co/L0Kz96Z/family-room.jpg",
+				"capacity": "6 Adults, 4 Children",
+				"amenities": [
+					"Free toiletries",
+					"Shower Safe Toilet",
+					"Towels Linens",
+					"Cleaning products",
+					"Fan",
+					"Wake-up service",
+					"Clothes rack"
+				]
+			}
+		]
+	},
+	{
+		"hotel_location_id": 3,
+		"hotel_id": "studio_orient_bay",
+		"name": "Studio Orient Bay",
+		"photo": "https://i.ibb.co/G05mVVm/Studio-Orient-Bay.jpg",
+		"location": "Bay Oriental, 97150 Orient Bay, Saint Martin",
+		"map": {
+			"lat": 20.626378664329838,
+			"lng": 92.31820010248686
+		},
+		"ratings": 4.7,
+		"suite_option": [
+			{
+				"suite_name": "Apartment With Sea View",
+				"price": 10000,
+				"suite_bed": "https://i.ibb.co/KFHps31/apartment-with-sea-view.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Kitchen",
+					"Washing Machine",
+					"Toilet",
+					"Sofa Bathtub or shower",
+					"Socket Near The Bed",
+					"Electric Blankets",
+					"Ironing facilities",
+					"Wake-up service",
+					"Clothes rack",
+					"TV",
+					"Refrigerator"
+				]
+			},
+			{
+				"suite_name": "Studio Exclusive Sea View",
+				"price": 8000,
+				"suite_bed": "https://i.ibb.co/LxX8H0d/studion-exclusive-sea-view.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Kitchen",
+					"Washing Machine",
+					"Toilet",
+					"Clothes rack",
+					"TV",
+					"Refrigerator",
+					"Sofa Bathtub or shower",
+					"Socket Near The Bed",
+					"Electric Blankets",
+					"Ironing facilities",
+					"Wake-up service"
+				]
+			}
+		]
+	},
+	{
+		"hotel_location_id": 3,
+		"hotel_id": "happy_residence_orient_beach",
+		"name": "Happy Residence - Orient Beach",
+		"photo": "https://i.ibb.co/ySV5Qzp/301126333.jpg",
+		"location": "Bay Residence, 97280 Bay North, Saint Martin",
+		"map": {
+			"lat": 20.62992321827725,
+			"lng": 92.3207925306677
+		},
+		"ratings": 4,
+		"suite_option": [
+			{
+				"suite_name": "One Bed Room Apartment",
+				"price": 7000,
+				"suite_bed": "https://i.ibb.co/tcVVrW0/one-bedroom-apartment.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Kitchen",
+					"Washing Machine",
+					"Toilet",
+					"Sofa Bathtub or Shower",
+					"Socket Near The Bed",
+					"Electric Blankets",
+					"Ironing facilities",
+					"Wake-up service",
+					"Clothes rack",
+					"TV",
+					"Refrigerator"
+				]
+			},
+			{
+				"suite_name": "Orient Exclusive Bay View",
+				"price": 12000,
+				"suite_bed": "https://i.ibb.co/xsKLd6x/orien-exclusive.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Kitchen",
+					"Washing Machine",
+					"Toilet",
+					"Clothes rack",
+					"TV",
+					"Refrigerator",
+					"Sofa Bathtub or shower",
+					"Socket Near The Bed",
+					"Electric Blankets",
+					"Ironing facilities",
+					"Wake-up service"
+				]
+			}
+		]
+	},
+	{
+		"hotel_location_id": 3,
+		"hotel_id": "oceanfront_bay_resort",
+		"name": "Oceanfront condo in the heart of Orient Bay Resort",
+		"photo": "https://i.ibb.co/yfN5NSL/oceanfront-bay-resort.jpg",
+		"location": "Bay View, 80 Bay South, Saint Martin",
+		"map": {
+			"lat": 20.63401930504988,
+			"lng": 92.32697353673005
+		},
+		"ratings": 4.8,
+		"suite_option": [
+			{
+				"suite_name": "One Bed Apartment",
+				"price": 32000,
+				"suite_bed": "https://i.ibb.co/y08yTgf/one-bed-apartment.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Kitchen",
+					"Washing Machine",
+					"Toilet",
+					"Sofa Bathtub or Shower",
+					"Socket Near The Bed",
+					"Electric Blankets",
+					"Ironing facilities",
+					"Wake-up service",
+					"Clothes rack",
+					"TV",
+					"Refrigerator",
+					"Clothes Racks",
+					"Private Entrance",
+					"Clothes Rack",
+					"Drying Rack For Clothing",
+					"Board Games",
+					"8 Ball Pool",
+					"Private Swimming Pool",
+					"Oven-Toaster",
+					"Streaming Service (NetFlix Included)"
+				]
+			},
+			{
+				"suite_name": "OceanFront Relaxing Bay View",
+				"price": 28000,
+				"suite_bed": "https://i.ibb.co/xHQHrXJ/relaxing-bay-view.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Kitchen",
+					"Washing Machine",
+					"Toilet",
+					"Clothes rack",
+					"TV",
+					"Refrigerator",
+					"Sofa Bathtub or shower",
+					"Socket Near The Bed",
+					"Electric Blankets",
+					"Ironing facilities",
+					"Wake-up service",
+					"Clothes Racks",
+					"Private Entrance",
+					"Clothes Rack",
+					"Drying Rack For Clothing",
+					"Board Games",
+					"8 Ball Pool",
+					"Private Swimming Pool",
+					"Oven-Toaster",
+					"Streaming Service (NetFlix Included)"
+				]
+			}
+		]
+	},
+	{
+		"hotel_location_id": 4,
+		"hotel_id": "eco_heritage_hotel_&_resort",
+		"name": "Eco Heritage Hotel & Resort",
+		"photo": "https://i.ibb.co/6WRBY37/eco-heritage-hotel-resort.jpg",
+		"location": "Airport Road, Near By Five star Play Ground Saidpur, 5310 Lakshmanpur Bālāpāra, Bangladesh",
+		"map": {
+			"lat": 25.77340307232576, 
+			"lng": 88.90215987299759
+		},
+		"ratings": 3.5,
+		"suite_option": [
+			{
+				"suite_name": "Twin Room With View",
+				"price": 3200,
+				"suite_bed": "https://i.ibb.co/TqJB6Yz/twin-room-with-view.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Kitchen",
+					"Washing Machine",
+					"Toilet",
+					"Sofa Bathtub or Shower",
+					"Socket Near The Bed",
+					"Electric Blankets",
+					"Ironing facilities",
+					"Wake-up service",
+					"Clothes rack",
+					"TV",
+					"Refrigerator"
+				]
+			},
+			{
+				"suite_name": "Deluxe Double Room With Balcony",
+				"price": 4200,
+				"suite_bed": "https://i.ibb.co/JKShMdP/deluxe-double-room-with-balcony.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Kitchen",
+					"Washing Machine",
+					"Toilet",
+					"Clothes rack",
+					"TV",
+					"Refrigerator",
+					"Sofa Bathtub or shower",
+					"Socket Near The Bed",
+					"Electric Blankets",
+					"Ironing facilities",
+					"Wake-up service",
+					"Clothes Racks",
+					"Balcony"
+				]
+			},
+			{
+				"suite_name": "Family Suite With Balcony",
+				"price": 5300,
+				"suite_bed": "https://i.ibb.co/6WRBY37/eco-heritage-hotel-resort.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Free toiletries",
+					"Kitchen",
+					"Washing Machine",
+					"Toilet",
+					"Clothes rack",
+					"TV",
+					"Refrigerator",
+					"Sofa Bathtub or shower",
+					"Socket Near The Bed",
+					"Electric Blankets",
+					"Ironing facilities",
+					"Wake-up service",
+					"Clothes Racks",
+					"Balcony",
+					"Pool with a view",
+					"Flat-screen TV"
+				]
+			}
+		]
+	},
+	{
+		"hotel_location_id": 4,
+		"hotel_id": "sundarban_eco_lodge",
+		"name": "Sundarban Eco Lodge",
+		"photo": "https://i.ibb.co/37SWfGC/sundarban-eco-lodge.jpg",
+		"location": "Near By Balipara, Potuakhali, Sundarban, Bangladesh",
+		"map": {
+			"lat": 22.43937339060947, 
+			"lng":  89.58395130141798
+		},
+		"ratings": 5,
+		"suite_option": [
+			{
+				"suite_name": "Du Cala Ghar With Natural View",
+				"price": 5000,
+				"suite_bed": "https://i.ibb.co/XsCRXRZ/du-cala-ghar-with-natural-view.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Natural Food",
+					"River Fishing With Guide",
+					"Nowka Travel",
+					"Night Fish Barbeque",
+					"Always Free Coconut",
+					"3 Time Food Daily"
+				]
+			},
+			{
+				"suite_name": "Chowcala Ghar With Natural View",
+				"price": 6200,
+				"suite_bed": "https://i.ibb.co/XtgJ38x/chowcala-ghar-with-natural-view.jpg",
+				"capacity": "2 Adults",
+				"amenities": [
+					"Natural Food",
+					"River Fishing With Guide",
+					"Nowka Travel",
+					"Night Fish Barbeque",
+					"Always Free Coconut",
+					"3 Time Food Daily"
+				]
+			}
+		]
+	}
+]
